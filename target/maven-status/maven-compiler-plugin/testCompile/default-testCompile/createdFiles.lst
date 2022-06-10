@@ -1,0 +1,10 @@
+com/gettingstarted/domain/account/BankAccountTests.class
+com/gettingstarted/collections/ModernAccountReposTests.class
+com/gettingstarted/collections/CollectionTests.class
+com/gettingstarted/domain/animal/CatTests.class
+com/gettingstarted/domain/modernanimal/ModernCatTest.class
+com/gettingstarted/domain/modernpeople/ModernPersonTests.class
+com/gettingstarted/generictests/GenericTests.class
+com/gettingstarted/domain/clientaddress/AddressDetailsTests.class
+com/gettingstarted/domain/modernaccount/ModernAccountTests.class
+com/gettingstarted/domain/people/PersonTests.class
